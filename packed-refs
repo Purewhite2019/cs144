@@ -1,9 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-c1471b981bf599886155a9b31fab17cd50a68c72 refs/heads/lab1-startercode
-81b077fc64ba404220e54fa9c545b890ff71e81d refs/heads/lab2-startercode
-710f804e9866297a35bfb13f55fb7f8ba5c40f0a refs/heads/lab3-startercode
-0b8c0eac1efd893c5be2e3ea40c0e22eb595b3bf refs/heads/lab4-startercode
-2001efa43933418576fa11efb5fcdaf8aeb4b244 refs/heads/lab5-startercode
-1e23b99c0e3bec51be48af13a65c12ec3b6c9bb3 refs/heads/lab6-startercode
-828df4077bd21767d6db04eef1e3e90108117c54 refs/heads/lab7-startercode
-31d95c3be9a36ceeafb7e52f1c3a0026d28aa34c refs/heads/master
