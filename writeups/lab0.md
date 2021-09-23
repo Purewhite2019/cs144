@@ -5,9 +5,9 @@ My name: [Qi Liu]
 
 My SUNet ID: [519021910529]
 
-This lab took me about [2] hours to do. I [did/did not] attend the lab session.
+This lab took me about [1] hours to do. I [did not] attend the lab session.
 
-My secret code from section 2.1 was: [(null)]
+My secret code from section 2.1 was: [code here]
 
 - Optional: I had unexpected difficulty with: [describe]
 
